@@ -2,6 +2,15 @@
 
 ![Screenshot 2023-03-28 at 9 38 09 PM](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
 
+Screenshots of Implementation-
+
+![Screenshot from 2024-06-17 22-18-47](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/801639a8-553d-4593-8ec6-86e0f17fd85b)
+![Screenshot from 2024-06-17 22-19-27](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/e6968a60-ff73-47bc-b949-11497dd3768c)
+![Screenshot from 2024-06-17 22-19-20](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/19103729-afdd-4092-b66a-61aa55b3617e)
+![Screenshot from 2024-06-17 22-19-09](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/daa5301a-ae7b-4929-9ad2-cdb1350124a7)
+![Screenshot from 2024-06-17 22-19-03](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/f282f079-3030-47c5-bc1d-f3701d39a604)
+![Screenshot from 2024-06-17 22-18-55](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/2af9430f-8604-4255-bae1-947fcebfdf76)
+
 
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:
 
@@ -26,7 +35,9 @@ Steps:
        2.2 Add a Jenkinsfile to the Git repository to define the pipeline stages.
 
     3. Define the pipeline stages:
-        Stage 1: Checkout the source code from Git.
+        Stage 1: Checkout the source code from Git.![Screenshot from 2024-06-17 22-18-55](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/5ad9878b-ed93-4dc1-920e-17a574711552)
+
+
         Stage 2: Build the Java application using Maven.
         Stage 3: Run unit tests using JUnit and Mockito.
         Stage 4: Run SonarQube analysis to check the code quality.
