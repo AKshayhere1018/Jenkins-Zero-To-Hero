@@ -4,7 +4,7 @@
 
 Screenshots of Implementation-
 
-![Screenshot from 2024-06-17 22-18-47](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/801639a8-553d-4593-8ec6-86e0f17fd85b)
+
 ![Screenshot from 2024-06-17 22-19-27](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/e6968a60-ff73-47bc-b949-11497dd3768c)
 ![Screenshot from 2024-06-17 22-19-20](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/19103729-afdd-4092-b66a-61aa55b3617e)
 ![Screenshot from 2024-06-17 22-19-09](https://github.com/AKshayhere1018/Jenkins-Zero-To-Hero/assets/106472707/daa5301a-ae7b-4929-9ad2-cdb1350124a7)
